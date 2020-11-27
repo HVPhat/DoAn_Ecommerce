@@ -48,6 +48,18 @@ namespace DoAn_Ecommerce
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapAreaControllerRoute(
+                   name: "Admin",
+                   areaName: "Admin",
+                   pattern: "Admin/{controller=AdminHome}/{action=Index}/{id?}");
+                endpoints.MapAreaControllerRoute(
+                    name: "Admin",
+                    areaName: "Admin",
+                    pattern: "Admin/{controller=AdminHome}/{action=Them}/{id?}");
+                endpoints.MapAreaControllerRoute(
+                    name: "Admin",
+                    areaName: "Admin",
+                    pattern: "Admin/{controller=AdminHome}/{action=Danhsach}/{id?}");
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

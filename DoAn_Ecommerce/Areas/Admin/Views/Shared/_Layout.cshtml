@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    @await Html.PartialAsync("_HeadPartical.cshtml")
+    @RenderSection("css", required: false)
+</head>
+<body class="hold-transition sidebar-mini layout-fixed">
+    @await Html.PartialAsync("_nabar.cshtml")
+    @await Html.PartialAsync("_HeaderPatical.cshtml")
+    @RenderBody()
+
+    @await Html.PartialAsync("_FooterPartical.cshtml")
+    @RenderSection("Script", required: false)
+</body>
+</html>
