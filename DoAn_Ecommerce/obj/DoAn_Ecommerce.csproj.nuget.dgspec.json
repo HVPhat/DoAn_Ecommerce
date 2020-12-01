@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PHI\\Desktop\\asp.net\\kt\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj": {}
+    "E:\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PHI\\Desktop\\asp.net\\kt\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj": {
+    "E:\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PHI\\Desktop\\asp.net\\kt\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+        "projectUniqueName": "E:\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
         "projectName": "DoAn_Ecommerce",
-        "projectPath": "C:\\Users\\PHI\\Desktop\\asp.net\\kt\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
-        "packagesPath": "C:\\Users\\PHI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PHI\\Desktop\\asp.net\\kt\\DoAn_Ecommerce\\DoAn_Ecommerce\\obj\\",
+        "projectPath": "E:\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\DoAn_Ecommerce\\DoAn_Ecommerce\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\PHI\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
