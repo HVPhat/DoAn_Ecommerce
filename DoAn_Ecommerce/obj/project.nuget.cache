@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "tMwI4jOhLjV3Hm5Nu0nTe2054bqXRw84QoseQVJiH4ZXivQ3IFUhfCly+0v4jBdsBuUVjS4Bj1d13kHNatHupg==",
   "success": true,
   "projectFilePath": "D:\\Đồ án ASP.NET\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+=======
+  "dgSpecHash": "TnfNqa1FM+OLQJvqFpFqZbE+RrIWWbu5GjZskrBwTpOFyAnAH55LlQTEAvschI+5Bz5S1Orn3bf4qfNJC9ELPA==",
+  "success": true,
+  "projectFilePath": "D:\\New folder\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+>>>>>>> c6cf23dde78d6ef018f73eb915fe9970c637309e
   "expectedPackageFiles": [],
   "logs": []
 }

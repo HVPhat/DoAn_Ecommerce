@@ -5,7 +5,7 @@ namespace DoAn_Ecommerce.Models
     public class NhanVienModel
 
     {
-        public string Id { get; set; }
+        public int Id { get; set; }
 
         public string TenNhanVien { get; set; }
 
@@ -14,7 +14,7 @@ namespace DoAn_Ecommerce.Models
         public string Email { get; set; }
         public string PassWord { get; set; }
         public int QuyenHan { get; set; }
-        [ForeignKey ("Quyen")]
+        [ForeignKey("Quyen")]
         public virtual Quyen Quyen { get; set; }
     }
 }

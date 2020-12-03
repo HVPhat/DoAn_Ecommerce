@@ -8,20 +8,39 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\ad\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\phat0\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+>>>>>>> c6cf23dde78d6ef018f73eb915fe9970c637309e
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Đồ án ASP.NET\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
       "projectName": "DoAn_Ecommerce",
       "projectPath": "D:\\Đồ án ASP.NET\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
       "packagesPath": "C:\\Users\\ad\\.nuget\\packages\\",
       "outputPath": "D:\\Đồ án ASP.NET\\DoAn_Ecommerce\\DoAn_Ecommerce\\obj\\",
+=======
+      "projectUniqueName": "D:\\New folder\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+      "projectName": "DoAn_Ecommerce",
+      "projectPath": "D:\\New folder\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+      "packagesPath": "C:\\Users\\phat0\\.nuget\\packages\\",
+      "outputPath": "D:\\New folder\\DoAn_Ecommerce\\DoAn_Ecommerce\\obj\\",
+>>>>>>> c6cf23dde78d6ef018f73eb915fe9970c637309e
       "projectStyle": "PackageReference",
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\ad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+        "C:\\Users\\phat0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> c6cf23dde78d6ef018f73eb915fe9970c637309e
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
