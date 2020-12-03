@@ -2,7 +2,8 @@
 
 namespace DoAn_Ecommerce.Models
 {
-    public class NhanVien
+    public class NhanVienModel
+
     {
         public string Id { get; set; }
 

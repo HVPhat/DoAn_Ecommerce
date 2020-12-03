@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 
 namespace DoAn_Ecommerce.Models
 {
-    public class HoaDon
+    public class Quyen
     {
         public int Id { get; set; }
-        public int KhachHang { get; set; }
-        public DateTime NgayLapHD { get; set; }
-    }
+        public string TenQuyen { get; set; }
+        public ICollection<NhanVienModel> lstNhanVien { get; set; }
+     }
 }
