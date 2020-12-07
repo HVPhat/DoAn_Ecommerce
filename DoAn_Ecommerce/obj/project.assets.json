@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+      "projectUniqueName": "D:\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
       "projectName": "DoAn_Ecommerce",
-      "projectPath": "D:\\New folder\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+      "projectPath": "D:\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
       "packagesPath": "C:\\Users\\phat0\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\DoAn_Ecommerce\\DoAn_Ecommerce\\obj\\",
+      "outputPath": "D:\\DoAn_Ecommerce\\DoAn_Ecommerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
