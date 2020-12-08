@@ -18,10 +18,12 @@ namespace DoAn_Ecommerce.Models
 
         public decimal Gia { set; get; }
         public string Mota { set; get; }
-
-       public string NoiDung { set; get; }
-        public int id_LoaiSanPham { set; get; }
-        [ForeignKey("id_LoaiSanPham")]
+        public int MaLoai { set; get; }
+        public bool TrangThai { get; set; }
+        [ForeignKey("MaLoai")]
         public virtual LoaiSanPhamModel LoaiSanPham { set; get; }
+
+        public ICollection<BinhLuanModel> lstBinhLuan { set; get; }
+        public ICollection<ChiTietHoaDonModel> lstCTHD { set; get; }
     }
 }
