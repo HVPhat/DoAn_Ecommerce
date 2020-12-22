@@ -21,13 +21,13 @@ using DoAn_Ecommerce;
 #nullable disable
 #nullable restore
 #line 2 "D:\DoAn_Ecommerce\DoAn_Ecommerce\Areas\Admin\Views\_ViewImports.cshtml"
-using DoAn_Ecommerce.Models;
+using DoAn_Ecommerce.Areas.Admin.Models;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b2cbb101345735324b5a89b1d2e10b8f526fa90b", @"/Areas/Admin/Views/AdminHome/Them.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"33ff309ca0ec919c481406fd022d70985bae21a5", @"/Areas/Admin/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8719c0378c4881f70e4506df3efee2bc5a4005f9", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     public class Areas_Admin_Views_AdminHome_Them : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("form-horizontal"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -71,7 +71,7 @@ using DoAn_Ecommerce.Models;
                         <!-- /.card-header -->
                         <!-- form start -->
                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b4358", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b4370", async() => {
                 WriteLiteral(@"
                             <div class=""card-body"">
                                 <div class=""form-group"">
@@ -147,7 +147,7 @@ using DoAn_Ecommerce.Models;
                                 <label for=""exampleSelectBorder"">Bottom Border only <code>.form-control-border</code></label>
                                 <select class=""custom-select form-control-border"" id=""exampleSelectBorder"">
                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b9946", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b9958", async() => {
                 WriteLiteral("Value 1");
             }
             );
@@ -161,7 +161,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b10941", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b10953", async() => {
                 WriteLiteral("Value 2");
             }
             );
@@ -175,7 +175,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b11937", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b11949", async() => {
                 WriteLiteral("Value 3");
             }
             );
@@ -195,7 +195,7 @@ using DoAn_Ecommerce.Models;
                                 <label for=""exampleSelectBorderWidth2"">Bottom Border only <code>.form-control-border.border-width-2</code></label>
                                 <select class=""custom-select form-control-border border-width-2"" id=""exampleSelectBorderWidth2"">
                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b13351", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b13363", async() => {
                 WriteLiteral("Value 1");
             }
             );
@@ -209,7 +209,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b14347", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b14359", async() => {
                 WriteLiteral("Value 2");
             }
             );
@@ -223,7 +223,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b15343", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b15355", async() => {
                 WriteLiteral("Value 3");
             }
             );
@@ -243,7 +243,7 @@ using DoAn_Ecommerce.Models;
                                 <label for=""exampleSelectRounded0"">Flat <code>.rounded-0</code></label>
                                 <select class=""custom-select rounded-0"" id=""exampleSelectRounded0"">
                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b16685", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b16697", async() => {
                 WriteLiteral("Value 1");
             }
             );
@@ -257,7 +257,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b17681", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b17693", async() => {
                 WriteLiteral("Value 2");
             }
             );
@@ -271,7 +271,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b18677", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b18689", async() => {
                 WriteLiteral("Value 3");
             }
             );
@@ -300,7 +300,7 @@ using DoAn_Ecommerce.Models;
                         </div>
 
                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b20221", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cbb101345735324b5a89b1d2e10b8f526fa90b20233", async() => {
                 WriteLiteral(@"
                             <div class=""card-body"">
                                 <div class=""form-group row"">

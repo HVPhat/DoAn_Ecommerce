@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DoAn_Ecommerce.Areas.Admin.Controllers
 {
+    [Area("Admin")]
+
     public class AdminHomeController : Controller
     {
         

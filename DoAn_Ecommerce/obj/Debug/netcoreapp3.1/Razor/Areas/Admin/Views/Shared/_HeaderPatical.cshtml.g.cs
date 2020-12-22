@@ -21,13 +21,13 @@ using DoAn_Ecommerce;
 #nullable disable
 #nullable restore
 #line 2 "D:\DoAn_Ecommerce\DoAn_Ecommerce\Areas\Admin\Views\_ViewImports.cshtml"
-using DoAn_Ecommerce.Models;
+using DoAn_Ecommerce.Areas.Admin.Models;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"67cfe5db1fc1b21d5097503be43baca5c9edc446", @"/Areas/Admin/Views/Shared/_HeaderPatical.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"33ff309ca0ec919c481406fd022d70985bae21a5", @"/Areas/Admin/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8719c0378c4881f70e4506df3efee2bc5a4005f9", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     public class Areas_Admin_Views_Shared__HeaderPatical : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("src", new global::Microsoft.AspNetCore.Html.HtmlString("~/admin/dist/img/AdminLTELogo.png"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -86,7 +86,7 @@ using DoAn_Ecommerce.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<aside class=\"main-sidebar sidebar-dark-primary elevation-4\">\r\n    <!-- Brand Logo -->\r\n    <a href=\"index3.html\" class=\"brand-link\">\r\n        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "67cfe5db1fc1b21d5097503be43baca5c9edc44614856", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "67cfe5db1fc1b21d5097503be43baca5c9edc44614868", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -112,7 +112,7 @@ using DoAn_Ecommerce.Models;
         <div class=""user-panel mt-3 pb-3 mb-3 d-flex"">
             <div class=""image"">
                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "67cfe5db1fc1b21d5097503be43baca5c9edc44616428", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "67cfe5db1fc1b21d5097503be43baca5c9edc44616440", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -176,7 +176,7 @@ using DoAn_Ecommerce.Models;
                     <ul class=""nav nav-treeview"">
                         <li class=""nav-item"">
                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44619656", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44619668", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>General Elements</p>\r\n                            ");
             }
             );
@@ -192,7 +192,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44621088", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44621100", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Advanced Elements</p>\r\n                            ");
             }
             );
@@ -208,7 +208,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44622521", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44622533", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Editors</p>\r\n                            ");
             }
             );
@@ -224,7 +224,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44623945", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44623957", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Validation</p>\r\n                            ");
             }
             );
@@ -255,7 +255,7 @@ using DoAn_Ecommerce.Models;
                        
                         <li class=""nav-item"">
                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44625848", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44625860", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>DataTables</p>\r\n                            ");
             }
             );
@@ -289,7 +289,7 @@ using DoAn_Ecommerce.Models;
                     <ul class=""nav nav-treeview"">
                         <li class=""nav-item"">
                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44627846", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44627858", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Inbox</p>\r\n                            ");
             }
             );
@@ -305,7 +305,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44629268", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44629280", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Compose</p>\r\n                            ");
             }
             );
@@ -321,7 +321,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44630692", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44630704", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Read</p>\r\n                            ");
             }
             );
@@ -351,7 +351,7 @@ using DoAn_Ecommerce.Models;
                     <ul class=""nav nav-treeview"">
                         <li class=""nav-item"">
                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44632562", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44632574", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Invoice</p>\r\n                            ");
             }
             );
@@ -367,7 +367,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44633986", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44633998", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Profile</p>\r\n                            ");
             }
             );
@@ -383,7 +383,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44635410", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44635422", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>E-commerce</p>\r\n                            ");
             }
             );
@@ -399,7 +399,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44636837", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44636849", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Projects</p>\r\n                            ");
             }
             );
@@ -415,7 +415,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44638262", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44638274", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Project Add</p>\r\n                            ");
             }
             );
@@ -431,7 +431,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44639690", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44639702", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Project Edit</p>\r\n                            ");
             }
             );
@@ -447,7 +447,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44641119", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44641131", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Project Detail</p>\r\n                            ");
             }
             );
@@ -463,7 +463,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44642550", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44642562", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Contacts</p>\r\n                            ");
             }
             );
@@ -479,7 +479,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        \r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44644003", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44644015", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Contact us</p>\r\n                            ");
             }
             );
@@ -519,7 +519,7 @@ using DoAn_Ecommerce.Models;
                                 <li class=""nav-item"">
       ");
             WriteLiteral("                              ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44646426", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44646438", async() => {
                 WriteLiteral("\r\n                                        <i class=\"far fa-circle nav-icon\"></i>\r\n                                        <p>Login v1</p>\r\n                                    ");
             }
             );
@@ -535,7 +535,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                </li>\r\n                                <li class=\"nav-item\">\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44647899", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44647911", async() => {
                 WriteLiteral("\r\n                                        <i class=\"far fa-circle nav-icon\"></i>\r\n                                        <p>Register v1</p>\r\n                                    ");
             }
             );
@@ -551,7 +551,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                </li>\r\n                                <li class=\"nav-item\">\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44649375", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44649387", async() => {
                 WriteLiteral("\r\n                                        <i class=\"far fa-circle nav-icon\"></i>\r\n                                        <p>Forgot Password v1</p>\r\n                                    ");
             }
             );
@@ -567,7 +567,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                </li>\r\n                                <li class=\"nav-item\">\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44650858", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44650870", async() => {
                 WriteLiteral("\r\n                                        <i class=\"far fa-circle nav-icon\"></i>\r\n                                        <p>Recover Password v1</p>\r\n                                    ");
             }
             );
@@ -601,7 +601,7 @@ using DoAn_Ecommerce.Models;
                     <ul class=""nav nav-treeview"">
                         <li class=""nav-item"">
                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44652892", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44652904", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Simple Search</p>\r\n                            ");
             }
             );
@@ -617,7 +617,7 @@ using DoAn_Ecommerce.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44654322", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67cfe5db1fc1b21d5097503be43baca5c9edc44654334", async() => {
                 WriteLiteral("\r\n                                <i class=\"far fa-circle nav-icon\"></i>\r\n                                <p>Enhanced</p>\r\n                            ");
             }
             );

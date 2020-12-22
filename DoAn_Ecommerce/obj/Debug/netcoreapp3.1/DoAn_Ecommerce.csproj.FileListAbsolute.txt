@@ -322,7 +322,6 @@ D:\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommer
 D:\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csproj.CopyComplete
 D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\appsettings.json
-D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.exe
 D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.deps.json
 D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.runtimeconfig.json
@@ -340,14 +339,10 @@ D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorAss
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.TagHelpers.input.cache
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.TagHelpers.output.cache
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorCoreGenerate.cache
-D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Danhsach.cshtml.g.cs
-D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Index.cshtml.g.cs
-D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Them.cshtml.g.cs
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_FooterPartical.cshtml.g.cs
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeaderPatical.cshtml.g.cs
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeadPartical.cshtml.g.cs
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
-D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_nabar.cshtml.g.cs
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
@@ -376,7 +371,6 @@ D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.dll
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.pdb
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.genruntimeconfig.cache
 D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csproj.CopyComplete
-D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csprojAssemblyReference.cache
 D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
@@ -417,3 +411,10 @@ D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netco
 D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\scopedcss\bundle\DoAn_Ecommerce.styles.css
+D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Danhsach.cshtml.g.cs
+D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Index.cshtml.g.cs
+D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Them.cshtml.g.cs
+D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Navbar.cshtml.g.cs
+D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+D:\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csprojAssemblyReference.cache
