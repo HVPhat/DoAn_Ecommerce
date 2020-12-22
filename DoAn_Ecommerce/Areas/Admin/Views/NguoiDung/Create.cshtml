@@ -1,0 +1,102 @@
+﻿@model DoAn_Ecommerce.Areas.Admin.Models.NguoiDungModel
+
+@{
+    ViewData["Title"] = "Create";
+    ViewData["User"] = "active";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <!-- left column -->
+            <div class="col-md-12">
+                <!-- general form elements -->
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">Create user</h3>
+                    </div>
+                    <!-- /.card-header -->
+                    <!-- form start -->
+                    <form asp-action="Create">
+                        <div class="card-body">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="form-group">
+                                <label asp-for="TenNguoiDung" class="control-label"></label>
+                                <input asp-for="TenNguoiDung" class="form-control" />
+                                <span asp-validation-for="TenNguoiDung" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="NgaySinh" class="control-label"></label>
+                                <input asp-for="NgaySinh" class="form-control" />
+                                <span asp-validation-for="NgaySinh" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="GioiTinh" class="control-label"></label>
+                                <input asp-for="GioiTinh" class="form-control" />
+                                <span asp-validation-for="GioiTinh" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Email" class="control-label"></label>
+                                <input asp-for="Email" class="form-control" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="MatKhau" class="control-label"></label>
+                                <input asp-for="MatKhau" class="form-control" />
+                                <span asp-validation-for="MatKhau" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="SDT" class="control-label"></label>
+                                <input asp-for="SDT" class="form-control" />
+                                <span asp-validation-for="SDT" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="DiaChi" class="control-label"></label>
+                                <input asp-for="DiaChi" class="form-control" />
+                                <span asp-validation-for="DiaChi" class="text-danger"></span>
+                            </div>
+                            <div class="form-group form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" asp-for="TrangThai" /> @Html.DisplayNameFor(model => model.TrangThai)
+                                </label>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="QuyenHan" class="control-label"></label>
+                                <input asp-for="QuyenHan" class="form-control" />
+                                <span asp-validation-for="QuyenHan" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+
+                        <div class="card-footer">
+                            <button type="submit" class="btn btn-primary" value="Create">Create</button>
+                        </div>
+
+
+                    </form>
+                </div>
+                <!-- /.card -->
+            </div>
+            <!--/.col (left) -->
+            <!-- right column -->
+            <!--/.col (right) -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container-fluid -->
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</section>
+<!-- /.content -->
+  </div>
+<!-- /.content-wrapper -->
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
