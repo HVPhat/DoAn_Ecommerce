@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DoAn_Ecommerce.Migrations
 {
     [DbContext(typeof(DPContext))]
-    [Migration("20201217144233_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20201223012115_khoitao")]
+    partial class khoitao
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
