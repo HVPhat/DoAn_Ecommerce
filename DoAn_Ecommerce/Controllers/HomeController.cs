@@ -6,26 +6,43 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using DoAn_Ecommerce.Areas.Admin.Models;
+using DoAn_Ecommerce.Areas.Admin.Data;
+using Microsoft.EntityFrameworkCore;
+using System.Dynamic;
 
 namespace DoAn_Ecommerce.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        /*  private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+          public HomeController(ILogger<HomeController> logger)
+          {
+              _logger = logger;
+          }
+        */
+        private readonly DPContext _context;
+
+        public HomeController(DPContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
-        public IActionResult Index()
+      
+        public async Task<IActionResult> Index()
         {
-            return View();
+            dynamic Model = new ExpandoObject();
+            Model.SanPham = _context.SanPham.Include(p => p.LoaiSanPham);
+            Model.TinTuc = _context.TinTuc.OrderByDescending(x => x.Id).Take(1);
+            Model.LoaiSanPham = _context.LoaiSP.Include(t => t.ltsSanPham);
+            return View(Model);
         }
-        public IActionResult Shop()
-        {
-            return View();
-        }
+
+        
+        //public IActionResult Shop()
+        //{
+        //    return View();
+        //}
         public IActionResult Cart()
         {
             return View();
