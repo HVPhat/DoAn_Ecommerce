@@ -6,20 +6,6 @@
     Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
 }
 
-<div class="row mb-2">
-    <div class="col-sm-6">
-        <h1>DataTables</h1>
-    </div>
-    <div class="col-sm-6">
-        <ol class="breadcrumb float-sm-right">
-            <li class="breadcrumb-item"><a href="#"></a></li>
-            <li class="breadcrumb-item active">DataTables</li>
-        </ol>
-    </div>
-</div>
-        </div><!-- /.container-fluid -->
-    </section>
-
 
 <!-- Main content -->
 <section class="content">
@@ -82,7 +68,7 @@
                                             @Html.DisplayFor(modelItem => item.TrangThai)
                                         </td>
                                         <td>
-                                            @Html.DisplayFor(modelItem => item.LoaiSanPham.Id)
+                                            @Html.DisplayFor(modelItem => item.LoaiSanPham.TenLoai)
                                         </td>
                                         <td>
                                             <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

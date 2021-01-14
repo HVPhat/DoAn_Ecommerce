@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a8Vo1423K/VGER9Lszg+jHBgHx8POzG4CN6S7/TDnaz0Xbos4piquHkFx+DFEKzj8VDRkHPdgrQ4mH6p8TJNRQ==",
+  "dgSpecHash": "O0RFWPipbTdfvR7Bc9QAQvnVjUFHHJCQ5W6dedgkuq9Wr37tpf0dzFvaEY2TdrSTZan0GFkBjuzqraZZBmFe+A==",
   "success": true,
-  "projectFilePath": "D:\\ASP.NET Core\\Do_an_ASP\\New folder\\New folder\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+  "projectFilePath": "D:\\ASP.NET Core\\Do_an_ASP\\New folder\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phat0\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\phat0\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

@@ -57,8 +57,17 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,TenNguoiDung,NgaySinh,GioiTinh,Email,MatKhau,SDT,DiaChi,TrangThai,QuyenHan")] NguoiDungModel nguoiDungModel)
         {
+            bool exists = false;
+            if (((_context.NguoiDung.Where(user => user.Email == nguoiDungModel.Email)).ToList()).Count > 0)
+                exists = true;
+            if (exists == true)
+            {
+                ViewBag.error = "This email has been taken !";
+                return View(nguoiDungModel);
+            }
             if (ModelState.IsValid)
             {
+                nguoiDungModel.MatKhau = HashString.CreateMD5Hash(nguoiDungModel.MatKhau);
                 _context.Add(nguoiDungModel);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -96,6 +105,11 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
 
             if (ModelState.IsValid)
             {
+                if ((((_context.NguoiDung.Where(a => a.Email == nguoiDungModel.Email && a.Id != nguoiDungModel.Id)).AsNoTracking()).ToList()).Count > 0)
+                { 
+                    ViewBag.error = "This email has been taken !";
+                    return View(nguoiDungModel);
+                }
                 try
                 {
                     _context.Update(nguoiDungModel);

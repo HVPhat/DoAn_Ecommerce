@@ -10,7 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
-
+using DoAn_Ecommerce.Middlewares;
 
 namespace DoAn_Ecommerce
 {
@@ -29,6 +29,14 @@ namespace DoAn_Ecommerce
             services.AddControllersWithViews();
             services.AddDbContext<DPContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DPContext")));
+            services.AddDistributedMemoryCache();
+            services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromSeconds(1000);
+                options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
+
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +54,9 @@ namespace DoAn_Ecommerce
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+            app.UseSession();
+            app.UseMiddleware<LoginMiddleware>();
 
             app.UseRouting();
 
