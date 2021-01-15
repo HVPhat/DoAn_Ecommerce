@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PHI\\Desktop\\New folder (18)\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj": {}
+    "C:\\Users\\ad\\OneDrive\\Desktop\\Đồ Án ASP.NET\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PHI\\Desktop\\New folder (18)\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj": {
+    "C:\\Users\\ad\\OneDrive\\Desktop\\Đồ Án ASP.NET\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PHI\\Desktop\\New folder (18)\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+        "projectUniqueName": "C:\\Users\\ad\\OneDrive\\Desktop\\Đồ Án ASP.NET\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
         "projectName": "DoAn_Ecommerce",
-        "projectPath": "C:\\Users\\PHI\\Desktop\\New folder (18)\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
-        "packagesPath": "C:\\Users\\PHI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PHI\\Desktop\\New folder (18)\\DoAn_Ecommerce\\DoAn_Ecommerce\\obj\\",
+        "projectPath": "C:\\Users\\ad\\OneDrive\\Desktop\\Đồ Án ASP.NET\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+        "packagesPath": "C:\\Users\\ad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ad\\OneDrive\\Desktop\\Đồ Án ASP.NET\\DoAn_Ecommerce\\DoAn_Ecommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PHI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

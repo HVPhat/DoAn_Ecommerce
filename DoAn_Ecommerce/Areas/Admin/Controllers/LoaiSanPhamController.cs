@@ -48,8 +48,8 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
         // GET: Admin/LoaiSanPham/Create
         public IActionResult Create()
         {
-            ViewData["TenLoai"] = new SelectList(_context.LoaiSP, "Id", "Id");
-            return View();
+            LoaiSanPhamModel LSP = new LoaiSanPhamModel();
+            return PartialView("_CreateModalPartial", LSP);
         }
 
         // POST: Admin/LoaiSanPham/Create
@@ -63,10 +63,10 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
             {
                 _context.Add(loaiSanPhamModel);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return PartialView("_ActionSuccessPartial");
             }
             ViewData["TenLoai"] = new SelectList(_context.LoaiSP, "Id", "Id" , loaiSanPhamModel.TenLoai);
-            return View(loaiSanPhamModel);
+            return PartialView("_CreateModalPartial",loaiSanPhamModel);
         }
 
         // GET: Admin/LoaiSanPham/Edit/5
@@ -83,7 +83,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                 return NotFound();
             }
             ViewData["TenLoai"] = new SelectList(_context.LoaiSP, "Id", "Id", loaiSanPhamModel.TenLoai);
-            return View(loaiSanPhamModel);
+            return PartialView("_EditModalPartial", loaiSanPhamModel);
         }
 
         // POST: Admin/LoaiSanPham/Edit/5
@@ -114,12 +114,11 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                     else
                     {
                         throw;
-                    }
+                    }                   
                 }
-                return RedirectToAction(nameof(Index));
+                return PartialView("_ActionSuccessPartial");
             }
-            ViewData["TenLoai"] = new SelectList(_context.LoaiSP, "Id", "Id", loaiSanPhamModel.TenLoai);
-            return View(loaiSanPhamModel);
+            return PartialView("_EditModalPartial", loaiSanPhamModel);
         }
 
         // GET: Admin/LoaiSanPham/Delete/5
@@ -137,7 +136,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            return View(loaiSanPhamModel);
+            return PartialView("_DeleteModalPartial", loaiSanPhamModel);
         }
 
         // POST: Admin/LoaiSanPham/Delete/5
@@ -148,7 +147,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
             var loaiSanPhamModel = await _context.LoaiSP.FindAsync(id);
             _context.LoaiSP.Remove(loaiSanPhamModel);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return PartialView("_ActionSuccessPartial");
         }
 
         private bool LoaiSanPhamModelExists(int id)
