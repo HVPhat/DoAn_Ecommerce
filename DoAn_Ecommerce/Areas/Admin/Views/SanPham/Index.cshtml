@@ -6,7 +6,7 @@
     Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
 }
 
-
+<div id="PlaceHolderHere"></div>
 <!-- Main content -->
 <section class="content">
     <div class="container-fluid">
@@ -14,7 +14,7 @@
             <div class="col-12">
                 <div class="card">
                     <div class="card-header">
-                        <a asp-action="Create"> <button class="btn btn-primary">Thêm Sản Phẩm </button> </a>
+                        <button type="button" class="btn btn-primary" data-toggle="ajax-modal" data-target="#addSanPham" data-url="@Url.Action("Create")"> Thêm Sản Phẩm</button>
                     </div>
                     <!-- /.card-header -->
                     <div class="card-body">
@@ -71,9 +71,9 @@
                                             @Html.DisplayFor(modelItem => item.LoaiSanPham.TenLoai)
                                         </td>
                                         <td>
-                                            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                                            <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                            <button type="button" class="btn btn-primary" id="Edit" data-toggle="ajax-modal" data-target="#addSanPham" data-url="@Url.Action($"Edit/{item.Id}")"> Edit </button> |
+                                            <button type="button" class="btn btn-primary" id="Edit" data-toggle="ajax-modal" data-target="#addSanPham" data-url="@Url.Action($"Delete/{item.Id}")"> Delete </button>
+                                            <button type="button" class="btn btn-primary" id="thaydoi" name="thaydoi" data-id="@item.Id"> thay doi </button>
                                         </td>
                                     </tr>
                                 }
@@ -92,3 +92,41 @@
 </section>
 <!-- /.content -->
 </div>
+<!-- Modal -->
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4>Thông báo</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p id="error"></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+@section Scripts {
+    <script>
+        $('button[name = thaydoi]').click(function () {
+            var id = ($(this).attr('data-id'));
+            $.ajax({
+                method: 'GET',
+                url: './api/SanPhamApi/thaydoi/' + id,
+            }).done(function (mgs) {
+                $("#error").html("Cập nhật trạng thái thành công");
+                $('#myModal').modal("show");
+            });
+        });
+        $("#myModal").on("hidden.bs.modal", function () {
+            // put your default event here
+            location.reload(true);
+        });
+    </script>
+}

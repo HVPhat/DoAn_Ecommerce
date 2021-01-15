@@ -56,7 +56,7 @@ namespace DoAn_Ecommerce
             app.UseStaticFiles();
 
             app.UseSession();
-            app.UseMiddleware<LoginMiddleware>();
+          //  app.UseMiddleware<LoginMiddleware>();
 
             app.UseRouting();
 

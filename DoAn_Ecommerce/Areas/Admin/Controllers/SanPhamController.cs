@@ -51,8 +51,10 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
         // GET: Admin/SanPham/Create
         public IActionResult Create()
         {
-            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "Id");
-            return View();
+            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "TenLoai");
+           //  return View();
+          //  SanPhamModel sp = new SanPhamModel();
+            return PartialView("_CreateSanPham");
         }
 
         // POST: Admin/SanPham/Create
@@ -75,7 +77,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                 sanPhamModel.HinhAnh = sanPhamModel.Id + "." + ful.FileName.Split(".")[ful.FileName.Split(".").Length - 1];
                 _context.Update(sanPhamModel);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return PartialView("Thongbao");
             }
             
           
@@ -96,8 +98,8 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "Id", sanPhamModel.MaLoai);
-            return View(sanPhamModel);
+            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "TenLoai", sanPhamModel.MaLoai);
+            return PartialView("_EditSanPham", sanPhamModel);
         }
 
         // POST: Admin/SanPham/Edit/5
@@ -151,10 +153,10 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return PartialView("Thongbao");
             }
-            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "Id", sanPhamModel.MaLoai);
-            return View(sanPhamModel);
+            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "TenLoai", sanPhamModel.MaLoai);
+            return PartialView("_EditSanPham", sanPhamModel);
         }
 
         // GET: Admin/SanPham/Delete/5
@@ -173,7 +175,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            return View(sanPhamModel);
+            return PartialView("DeleteSanPham", sanPhamModel);
         }
 
         // POST: Admin/SanPham/Delete/5
@@ -184,7 +186,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
             var sanPhamModel = await _context.SanPham.FindAsync(id);
             _context.SanPham.Remove(sanPhamModel);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return PartialView("Thongbao");
         }
 
         private bool SanPhamModelExists(int id)

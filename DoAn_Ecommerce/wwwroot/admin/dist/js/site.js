@@ -12,15 +12,32 @@ $(function () {
     PlaceHolderElement.on('click', '[data-save="modal"]', function (event) {
         var form = $(this).parents('.modal').find('form');
         var actionUrl = form.attr('action');
-        var sendData = form.serialize();
-        PlaceHolderElement.find('.modal').modal('hide');
+        var form_data = new FormData($(this).parents('.modal').find('form')[0]);
+        $.ajax({
+            method: 'POST',
+            url: actionUrl,
+            data: form_data,
+            processData: false,
+            contentType: false,
+            success: function (data) {
+                // handle response here...
+                PlaceHolderElement.html(data);
+                PlaceHolderElement.find('.modal').modal('show');
+                suscess = true;
+            }
+        });
+
+       
+
+     //   var sendData = form.serialize();
+     //   PlaceHolderElement.find('.modal').modal('hide');
         //$('body').removeClass('modal-open');
-        $('.modal-backdrop').remove();
-        $.post(actionUrl, sendData).done(function (data) {
-            PlaceHolderElement.html(data);
-            PlaceHolderElement.find('.modal').modal('show');
-            suscess = true;
-        })
+     //   $('.modal-backdrop').remove();
+    //    $.post(actionUrl, sendData).done(function (data) {
+     //       PlaceHolderElement.html(data);
+    //        PlaceHolderElement.find('.modal').modal('show');
+     //       suscess = true;
+     //   })
         /*$.ajax({
             type: "POST",
             data: sendData,
@@ -52,3 +69,5 @@ $("#PlaceHolderHere").on("hidden.bs.modal", function () {
     }
 
 });
+
+   
