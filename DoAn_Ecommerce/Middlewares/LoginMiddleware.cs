@@ -21,7 +21,7 @@ namespace DoAn_Ecommerce.Middlewares
         public Task Invoke(HttpContext httpContext)
         {
             var path = httpContext.Request.Path;
-            if (path.HasValue && (path.Value.StartsWith("/admin") || path.Value.StartsWith("/Admin")))
+            if (path.HasValue && ((path.Value.StartsWith("/admin") || path.Value.StartsWith("/Admin"))))
             {
                 if (httpContext.Session.GetString("user") == null)
                 {

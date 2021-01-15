@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace DoAn_Ecommerce.Areas.Admin.API
 {
-    [Route("Admin/api/[controller]")]
+    [Route("Admin/api/NguoiDungApi")]
     [ApiController]
     public class NguoiDungApi : ControllerBase
     {

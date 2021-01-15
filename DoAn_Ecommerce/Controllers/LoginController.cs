@@ -51,5 +51,10 @@ namespace DoAn_Ecommerce.Controllers
             ViewBag.error = "Please enter email and password !";
             return View("Index");
         }
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("Index");
+        }
     }
 }

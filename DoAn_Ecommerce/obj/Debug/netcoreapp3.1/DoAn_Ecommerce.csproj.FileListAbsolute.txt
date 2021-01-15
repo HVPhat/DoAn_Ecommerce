@@ -1999,3 +1999,7 @@ D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\net
 D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.pdb
 D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.genruntimeconfig.cache
 D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_CreateModalPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_ActionSuccessPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_DeleteModalPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_EditModalPartial.cshtml.g.cs
