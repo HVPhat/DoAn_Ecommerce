@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace DoAn_Ecommerce.Migrations
 {
-    public partial class khoitao : Migration
+    public partial class KhoiTao : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

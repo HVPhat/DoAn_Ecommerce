@@ -6,7 +6,6 @@
     Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Create</h1>
 <section class="content">
     <div class="container-fluid">
         <div class="row">
@@ -19,7 +18,7 @@
                     </div>
                     <!-- /.card-header -->
                     <!-- form start -->
-                    <form asp-action="Create">
+                    <form asp-action="Create" enctype="multipart/form-data">
                         <div class="card-body">
                             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                             <div class="form-group">
@@ -27,10 +26,12 @@
                                 <input asp-for="TenSanPham" class="form-control" />
                                 <span asp-validation-for="TenSanPham" class="text-danger"></span>
                             </div>
+                            <div class=" custom-file">
+                                <input accept="*.png|*.jpg|*.jpeg|*.jfif" type="file" class="custom-file-input" id="ful" name="ful" />
+                                <label class=" custom-file-label" for="ful">Chon hinh</label>
+                            </div>
                             <div class="form-group">
-                                <label asp-for="HinhAnh" class="control-label"></label>
-                                <input asp-for="HinhAnh" class="form-control" />
-                                <span asp-validation-for="HinhAnh" class="text-danger"></span>
+                                <img id="imgPre" src="~/images/pro/Capture.jpg" alt="no image" class="img-thumbnail" />
                             </div>
                             <div class="form-group">
                                 <label asp-for="SoLuongTon" class="control-label"></label>
@@ -83,4 +84,19 @@
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        function readURL (input, idImg) {
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $(idImg).attr('src', e.target.result);
+                }
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+        $("#ful").change(function () {
+            readURL(this, '#imgPre');
+        });
+    </script>
 }
+

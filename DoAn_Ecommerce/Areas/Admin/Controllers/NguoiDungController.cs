@@ -1,4 +1,4 @@
-﻿using System;
+﻿  using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -47,7 +47,8 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
         // GET: Admin/NguoiDung/Create
         public IActionResult Create()
         {
-            return View();
+            NguoiDungModel user = new NguoiDungModel();
+            return PartialView("_CreateModalPartial", user);
         }
 
         // POST: Admin/NguoiDung/Create
@@ -57,13 +58,22 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,TenNguoiDung,NgaySinh,GioiTinh,Email,MatKhau,SDT,DiaChi,TrangThai,QuyenHan")] NguoiDungModel nguoiDungModel)
         {
+            bool exists = false;
+            if (((_context.NguoiDung.Where(user => user.Email == nguoiDungModel.Email)).ToList()).Count > 0)
+                exists = true;
+            if (exists == true)
+            {
+                ViewBag.error = "This email has been taken !";
+                return PartialView("_CreateModalPartial", nguoiDungModel);
+            }
             if (ModelState.IsValid)
             {
+                nguoiDungModel.MatKhau = HashString.CreateMD5Hash(nguoiDungModel.MatKhau);
                 _context.Add(nguoiDungModel);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return PartialView("_ActionSuccessPartial");
             }
-            return View(nguoiDungModel);
+            return PartialView("_CreateModalPartial", nguoiDungModel);
         }
 
         // GET: Admin/NguoiDung/Edit/5
@@ -79,7 +89,8 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            return View(nguoiDungModel);
+            ViewBag.QuyenHan = nguoiDungModel.QuyenHan;
+            return PartialView("_EditModalPartial", nguoiDungModel);
         }
 
         // POST: Admin/NguoiDung/Edit/5
@@ -96,6 +107,11 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
 
             if (ModelState.IsValid)
             {
+                if ((((_context.NguoiDung.Where(a => a.Email == nguoiDungModel.Email && a.Id != nguoiDungModel.Id)).AsNoTracking()).ToList()).Count > 0)
+                { 
+                    ViewBag.error = "This email has been taken !";
+                    return PartialView("_EditModalPartial", nguoiDungModel);
+                }
                 try
                 {
                     _context.Update(nguoiDungModel);
@@ -112,9 +128,9 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return PartialView("_ActionSuccessPartial");
             }
-            return View(nguoiDungModel);
+            return PartialView("_EditModalPartial", nguoiDungModel);
         }
 
         // GET: Admin/NguoiDung/Delete/5
@@ -132,7 +148,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            return View(nguoiDungModel);
+            return PartialView("_DeleteModalPartial", nguoiDungModel);
         }
 
         // POST: Admin/NguoiDung/Delete/5
@@ -143,7 +159,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
             var nguoiDungModel = await _context.NguoiDung.FindAsync(id);
             _context.NguoiDung.Remove(nguoiDungModel);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return PartialView("_ActionSuccessPartial");
         }
 
         private bool NguoiDungModelExists(int id)

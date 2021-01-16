@@ -1,0 +1,76 @@
+﻿@model NguoiDungModel
+
+<div class="modal fade" id="addUser">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Add User</h4>
+                <button type="button" class="close" data-dismiss="modal">
+                    <span>X</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form asp-action="Create">
+                    <div class="form-group">
+                        <label asp-for="TenNguoiDung"></label>
+                        <input asp-for="TenNguoiDung" class="form-control" />
+                        <span asp-validation-for="TenNguoiDung" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="NgaySinh" class="control-label"></label>
+                        <input type="datetime-local" asp-for="NgaySinh" class="form-control" />
+                        <span asp-validation-for="NgaySinh" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="GioiTinh" class="control-label"></label>
+                        <select class="form-control">
+                            <option value="0">Nam</option>
+                            <option value="1">Nữ</option>
+                        </select>
+                        <span asp-validation-for="GioiTinh" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                        <span class="text-danger">@ViewBag.error</span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="MatKhau" class="control-label"></label>
+                        <input asp-for="MatKhau" class="form-control" />
+                        <span asp-validation-for="MatKhau" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="SDT" class="control-label"></label>
+                        <input asp-for="SDT" class="form-control" />
+                        <span asp-validation-for="SDT" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DiaChi" class="control-label"></label>
+                        <input asp-for="DiaChi" class="form-control" />
+                        <span asp-validation-for="DiaChi" class="text-danger"></span>
+                    </div>
+                    <div class="form-group form-check">
+                        <label class="form-check-label">
+                            <input class="form-check-input" asp-for="TrangThai" /> @Html.DisplayNameFor(model => model.TrangThai)
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="QuyenHan" class="control-label"></label>
+                        <select class="form-control">
+                            <option value="0">User</option>
+                            <option value="1">Admin</option>
+                        </select>
+                        <span asp-validation-for="QuyenHan" class="text-danger"></span>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" data-save="modal">Save</button>
+            </div>
+        </div>
+    </div>
+</div>

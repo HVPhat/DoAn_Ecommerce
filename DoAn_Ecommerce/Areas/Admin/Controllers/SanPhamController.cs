@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using DoAn_Ecommerce.Areas.Admin.Data;
 using DoAn_Ecommerce.Areas.Admin.Models;
+using Microsoft.AspNetCore.Http;
+using System.IO;
 
 namespace DoAn_Ecommerce.Areas.Admin.Controllers
 {
@@ -49,8 +51,10 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
         // GET: Admin/SanPham/Create
         public IActionResult Create()
         {
-            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "Id");
-            return View();
+            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "TenLoai");
+           //  return View();
+          //  SanPhamModel sp = new SanPhamModel();
+            return PartialView("_CreateSanPham");
         }
 
         // POST: Admin/SanPham/Create
@@ -58,15 +62,26 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,TenSanPham,HinhAnh,SoLuongTon,Gia,Mota,MaLoai,TrangThai")] SanPhamModel sanPhamModel)
+        public async Task<IActionResult> Create([Bind("Id,TenSanPham,HinhAnh,SoLuongTon,Gia,Mota,MaLoai,TrangThai")] SanPhamModel sanPhamModel , IFormFile ful)
         {
             if (ModelState.IsValid)
             {
                 _context.Add(sanPhamModel);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/pro",
+                    sanPhamModel.Id + "." + ful.FileName.Split(".")[ful.FileName.Split(".").Length - 1]);
+                using (var stream = new FileStream(path, FileMode.Create))
+                {
+                    await ful.CopyToAsync(stream);
+                }
+                sanPhamModel.HinhAnh = sanPhamModel.Id + "." + ful.FileName.Split(".")[ful.FileName.Split(".").Length - 1];
+                _context.Update(sanPhamModel);
+                await _context.SaveChangesAsync();
+                return PartialView("Thongbao");
             }
-            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "Id", sanPhamModel.MaLoai);
+            
+          
+         //   ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "Id", sanPhamModel.MaLoai);
             return View(sanPhamModel);
         }
 
@@ -83,8 +98,8 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "Id", sanPhamModel.MaLoai);
-            return View(sanPhamModel);
+            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "TenLoai", sanPhamModel.MaLoai);
+            return PartialView("_EditSanPham", sanPhamModel);
         }
 
         // POST: Admin/SanPham/Edit/5
@@ -92,7 +107,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,TenSanPham,HinhAnh,SoLuongTon,Gia,Mota,MaLoai,TrangThai")] SanPhamModel sanPhamModel)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,TenSanPham,HinhAnh,SoLuongTon,Gia,Mota,MaLoai,TrangThai")] SanPhamModel sanPhamModel, IFormFile ful)
         {
             if (id != sanPhamModel.Id)
             {
@@ -104,7 +119,28 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                 try
                 {
                     _context.Update(sanPhamModel);
+                    if (ful != null)//neu chon hinh moi
+                    {
+                        var path = Path.Combine(
+                    Directory.GetCurrentDirectory(), "wwwroot/images/pro", sanPhamModel.HinhAnh);
+                        System.IO.File.Delete(path);//Xoa hinh cu
+                                                    //them hinh moi
+                        path = Path.Combine(
+                   Directory.GetCurrentDirectory(), "wwwroot/images/pro", sanPhamModel.Id + "." + ful.FileName.Split(".")
+                   [ful.FileName.Split(".").Length - 1]);
+                        using (var stream = new FileStream(path, FileMode.Create))
+                        {
+                            await ful.CopyToAsync(stream);
+                        }
+                        sanPhamModel.HinhAnh = sanPhamModel.Id + "." + ful.FileName.Split(".")[ful.FileName.Split(".").Length - 1];
+                        //cap nhat du lieu                  
+                        _context.Update(sanPhamModel);
+                    }
+                    //cap nhat du lieu db
                     await _context.SaveChangesAsync();
+
+                    
+                    
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -117,10 +153,10 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return PartialView("Thongbao");
             }
-            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "Id", sanPhamModel.MaLoai);
-            return View(sanPhamModel);
+            ViewData["MaLoai"] = new SelectList(_context.LoaiSP, "Id", "TenLoai", sanPhamModel.MaLoai);
+            return PartialView("_EditSanPham", sanPhamModel);
         }
 
         // GET: Admin/SanPham/Delete/5
@@ -139,7 +175,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            return View(sanPhamModel);
+            return PartialView("DeleteSanPham", sanPhamModel);
         }
 
         // POST: Admin/SanPham/Delete/5
@@ -150,7 +186,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
             var sanPhamModel = await _context.SanPham.FindAsync(id);
             _context.SanPham.Remove(sanPhamModel);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return PartialView("Thongbao");
         }
 
         private bool SanPhamModelExists(int id)

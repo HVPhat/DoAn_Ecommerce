@@ -6,19 +6,8 @@
     Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
 }
 
-<div class="row mb-2">
-    <div class="col-sm-6">
-        <h1>DataTables</h1>
-    </div>
-    <div class="col-sm-6">
-        <ol class="breadcrumb float-sm-right">
-            <li class="breadcrumb-item"><a href="#"></a></li>
-            <li class="breadcrumb-item active">DataTables</li>
-        </ol>
-    </div>
-</div>
 
-
+<div id="PlaceHolderHere"></div>
 <!-- Main content -->
 <section class="content">
     <div class="container-fluid">
@@ -26,7 +15,7 @@
             <div class="col-12">
                 <div class="card">
                     <div class="card-header">
-                        <a asp-action="Create"> <button class="btn btn-primary">Thêm Tin Tức </button> </a>
+                        <button type="button" class="btn btn-primary" data-toggle="ajax-modal" data-target="#addtintuc" data-url="@Url.Action("Create")"> Thêm Tin Tức</button>
                     </div>
                     <!-- /.card-header -->
                     <div class="card-body">
@@ -63,37 +52,37 @@
                             <tbody>
                                 @foreach (var item in Model)
                                 {
-                                <tr>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.TieuDe)
-                                    </td>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.TomTat)
-                                    </td>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.NoiDung)
-                                    </td>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.NgayDang)
-                                    </td>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.LuotXem)
-                                    </td>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.TrangThai)
-                                    </td>
-                                    <td>
-                                       <img src ="~/images/pro/@Html.DisplayFor(modelItem => item.HinhAnh)" height="200" width="200"/>
-                                    </td>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.NhanVien.Id)
-                                    </td>
-                                    <td>
-                                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                                    </td>
-                                </tr>
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.TieuDe)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.TomTat)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.NoiDung)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.NgayDang)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.LuotXem)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.TrangThai)
+                                        </td>
+                                        <td>
+                                            <img src="~/images/pro/@Html.DisplayFor(modelItem => item.HinhAnh)" height="150" width="150" />
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.NhanVien.Id)
+                                        </td>
+                                        <td>
+                                            <button type="button" class="btn btn-primary" id="Edit" data-toggle="ajax-modal" data-target="#addtintuc" data-url="@Url.Action($"Edit/{item.Id}")"> Edit </button> |
+                                            <button type="button" class="btn btn-primary" id="Edit" data-toggle="ajax-modal" data-target="#addtintuc" data-url="@Url.Action($"Delete/{item.Id}")"> Delete </button> |
+                                            <button type="button" class="btn btn-primary" id="change" name="change" data-id="@item.Id"> Change </button>
+                                        </td>
+                                    </tr>
                                 }
                             </tbody>
                         </table>
@@ -109,3 +98,41 @@
     <!-- /.container-fluid -->
 </section>
 <!-- /.content -->
+<!-- Modal -->
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4>Thông báo</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p id="error"></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+@section Scripts {
+    <script>
+        $('button[name = change]').click(function () {
+            var id = ($(this).attr('data-id'));
+            $.ajax({
+                method: 'GET',
+                url: './api/TinTucApi/ChangeStates/' + id,
+            }).done(function (mgs) {
+                $("#error").html("Cập nhật trạng thái thành công");
+                $('#myModal').modal("show");
+            });
+        });
+        $("#myModal").on("hidden.bs.modal", function () {
+            // put your default event here
+            location.reload(true);
+        });
+    </script>
+}

@@ -1106,13 +1106,10 @@ C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Checkout.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Shop.cshtml.g.cs
-C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShopSingle.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thankyou.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
@@ -1134,3 +1131,1135 @@ C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Details.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Edit.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Index.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.exe
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.deps.json
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.runtimeconfig.json
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.runtimeconfig.dev.json
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.pdb
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.pdb
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csprojAssemblyReference.cache
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.AssemblyInfoInputs.cache
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.AssemblyInfo.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorAssemblyInfo.cache
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorAssemblyInfo.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.TagHelpers.input.cache
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.TagHelpers.output.cache
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorCoreGenerate.cache
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Danhsach.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Index.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Them.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Create.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Delete.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Details.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Edit.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Index.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Create.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Delete.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Details.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Edit.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Index.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Create.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Delete.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Details.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Edit.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Index.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_FooterPartical.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeaderPatical.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeadPartical.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Navbar.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Create.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Delete.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Details.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Edit.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Index.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Checkout.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thankyou.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeadPartial.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorTargetAssemblyInfo.cache
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorTargetAssemblyInfo.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.pdb
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csproj.CopyComplete
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\DoAn_Ecommerce.StaticWebAssets.Manifest.cache
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\DoAn_Ecommerce.StaticWebAssets.xml
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.dll
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.pdb
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.genruntimeconfig.cache
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Create.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Delete.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Details.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Edit.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.exe
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.deps.json
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.runtimeconfig.json
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.runtimeconfig.dev.json
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.pdb
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.pdb
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csprojAssemblyReference.cache
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.AssemblyInfoInputs.cache
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.AssemblyInfo.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorAssemblyInfo.cache
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorAssemblyInfo.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.TagHelpers.input.cache
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.TagHelpers.output.cache
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorCoreGenerate.cache
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Danhsach.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Them.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Create.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Delete.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Details.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Edit.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Create.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Delete.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Details.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Edit.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Create.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Delete.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Details.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Edit.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Create.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Delete.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Details.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Edit.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_FooterPartical.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeaderPatical.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeadPartical.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Navbar.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Create.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Delete.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Details.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Edit.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Checkout.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thankyou.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeadPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorTargetAssemblyInfo.cache
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorTargetAssemblyInfo.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.pdb
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csproj.CopyComplete
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\DoAn_Ecommerce.StaticWebAssets.Manifest.cache
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\DoAn_Ecommerce.StaticWebAssets.xml
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.dll
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.pdb
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.genruntimeconfig.cache
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\Shop.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\ShopSingle.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (14)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.exe
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.deps.json
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.runtimeconfig.json
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.runtimeconfig.dev.json
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.pdb
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.pdb
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csprojAssemblyReference.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.AssemblyInfoInputs.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.AssemblyInfo.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorAssemblyInfo.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorAssemblyInfo.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\DoAn_Ecommerce.StaticWebAssets.Manifest.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\DoAn_Ecommerce.StaticWebAssets.xml
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\scopedcss\bundle\DoAn_Ecommerce.styles.css
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.TagHelpers.input.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.TagHelpers.output.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorCoreGenerate.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Danhsach.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Them.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Create.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Delete.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Details.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Edit.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Create.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Delete.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Details.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Edit.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Create.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Delete.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Details.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Edit.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Create.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Delete.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Details.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Edit.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_FooterPartical.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeaderPatical.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeadPartical.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Navbar.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Create.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Delete.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Details.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Edit.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Checkout.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thankyou.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\Shop.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\ShopSingle.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeadPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorTargetAssemblyInfo.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorTargetAssemblyInfo.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.pdb
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csproj.CopyComplete
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.pdb
+D:\ASP.NET Core\Do_an_ASP\New folder\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.genruntimeconfig.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.exe
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.deps.json
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.runtimeconfig.json
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.runtimeconfig.dev.json
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.pdb
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.pdb
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csprojAssemblyReference.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.AssemblyInfoInputs.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.AssemblyInfo.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorAssemblyInfo.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorAssemblyInfo.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\DoAn_Ecommerce.StaticWebAssets.Manifest.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\DoAn_Ecommerce.StaticWebAssets.xml
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\scopedcss\bundle\DoAn_Ecommerce.styles.css
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.TagHelpers.input.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.TagHelpers.output.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorCoreGenerate.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Danhsach.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Them.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Create.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Delete.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Details.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Edit.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Create.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Delete.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Details.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Edit.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Create.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Delete.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Details.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Edit.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Create.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Delete.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Details.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Edit.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_FooterPartical.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeaderPatical.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeadPartical.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Navbar.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Create.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Delete.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Details.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Edit.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Checkout.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thankyou.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\Shop.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\ShopSingle.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeadPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorTargetAssemblyInfo.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorTargetAssemblyInfo.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.pdb
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csproj.CopyComplete
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.dll
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.pdb
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.genruntimeconfig.cache
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_CreateModalPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_ActionSuccessPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_DeleteModalPartial.cshtml.g.cs
+D:\ASP.NET Core\Do_an_ASP\New folder\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_EditModalPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.exe
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.deps.json
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.runtimeconfig.json
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.runtimeconfig.dev.json
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.pdb
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.pdb
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csprojAssemblyReference.cache
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.AssemblyInfoInputs.cache
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.AssemblyInfo.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorAssemblyInfo.cache
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorAssemblyInfo.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.TagHelpers.input.cache
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.TagHelpers.output.cache
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorCoreGenerate.cache
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Danhsach.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminHome\Them.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Create.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Delete.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Details.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Edit.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Create.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Delete.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Details.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Edit.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Create.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Delete.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Details.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Edit.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_ActionSuccessPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_CreateModalPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_DeleteModalPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_EditModalPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Create.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Delete.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Details.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Edit.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_FooterPartical.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeaderPatical.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeadPartical.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Navbar.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Create.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Delete.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Details.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Edit.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Checkout.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thankyou.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\Shop.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\ShopSingle.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeadPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorTargetAssemblyInfo.cache
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.RazorTargetAssemblyInfo.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.Views.pdb
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.csproj.CopyComplete
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\DoAn_Ecommerce.StaticWebAssets.Manifest.cache
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\DoAn_Ecommerce.StaticWebAssets.xml
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.dll
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.pdb
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\DoAn_Ecommerce.genruntimeconfig.cache
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\_CreateSanPham.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\_EditSanPham.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\DeleteSanPham.cshtml.g.cs
+C:\Users\PHI\Desktop\New folder (18)\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Thongbao.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_ActionSuccessPartial.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_CreateModalPartial.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_DeleteModalPartial.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_EditModalPartial.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\DeleteSanPham.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Thongbao.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\_CreateSanPham.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\_EditSanPham.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\Shop.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\ShopSingle.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\_ActionSuccessPartial.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\_CreateModalPartial.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\_DeleteModalPartial.cshtml.g.cs
+C:\Users\ad\OneDrive\Desktop\Đồ Án ASP.NET\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\_EditModalPartial.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Create.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Delete.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Details.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Edit.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Index.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\_ActionSuccessPartial.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\_CreateModalPartial.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\_DeleteModalPartial.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\_EditModalPartial.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_ActionSuccessPartial.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_CreateModalPartial.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_DeleteModalPartial.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_EditModalPartial.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\DeleteSanPham.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Thongbao.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\_CreateSanPham.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\_EditSanPham.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\Shop.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\ShopSingle.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\_ActionPartial.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\_CreatePartial.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\_DeletePartial.cshtml.g.cs
+C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\_EditPartial.cshtml.g.cs

@@ -1,0 +1,104 @@
+﻿@model IEnumerable<DoAn_Ecommerce.Areas.Admin.Models.LoaiSanPhamModel>
+
+@{
+    ViewData["Title"] = "Index";
+    ViewData["LoaiSanPham"] = "active";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<div id="PlaceHolderHere"></div>
+
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <button type="button" class="btn btn-primary" data-toggle="ajax-modal" data-target="#addLSP" data-url="@Url.Action("Create")"> Thêm Loại Sản Phẩm</button>
+                        @*<a asp-action="Create"> <button class="btn btn-primary">Thêm Loại SP </button> </a>
+                            </div>*@
+                        <!-- /.card-header -->
+                        <div class="card-body">
+                            <table id="example2" class="table table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.TenLoai)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.TrangThai)
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.TenLoai)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.TrangThai)
+                                            </td>
+                                            <td>
+                                                <button type="button" class="btn btn-primary" id="Edit" data-toggle="ajax-modal" data-target="#addLSP" data-url="@Url.Action($"Edit/{item.Id}")"> Edit </button> |
+                                                <button type="button" class="btn btn-primary" id="Edit" data-toggle="ajax-modal" data-target="#addLSP" data-url="@Url.Action($"Delete/{item.Id}")"> Delete </button> |
+                                                <button type="button" class="btn btn-primary" id="change" name="change" data-id="@item.Id"> Change </button>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container-fluid -->
+</section>
+<!-- /.content -->
+</div>
+<!-- Modal -->
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4>Thông báo</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p id="error"></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+@section Scripts {
+    <script>
+        $('button[name = change]').click(function () {
+            var id = ($(this).attr('data-id'));
+            $.ajax({
+                method: 'GET',
+                url: './api/LoaiSanPhamApi/ChangeState/' + id,
+            }).done(function (mgs) {
+                $("#error").html("Cập nhật trạng thái thành công");
+                $('#myModal').modal("show");
+            });
+        });
+        $("#myModal").on("hidden.bs.modal", function () {
+            // put your default event here
+            location.reload(true);
+        });
+    </script>
+}

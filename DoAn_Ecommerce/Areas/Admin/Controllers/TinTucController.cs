@@ -51,8 +51,10 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
         // GET: Admin/TinTuc/Create
         public IActionResult Create()
         {
-            ViewData["NguoiDang"] = new SelectList(_context.NguoiDung, "Id", "Id");
-            return View();
+            TinTucModel TC = new TinTucModel();
+            return PartialView("_CreatePartial", TC);
+          //  ViewData["NguoiDang"] = new SelectList(_context.NguoiDung, "Id", "Id");
+           // return View();
         }
 
         // POST: Admin/TinTuc/Create
@@ -75,10 +77,11 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                 tinTucModel.HinhAnh = tinTucModel.Id + "." + ful.FileName.Split(".")[ful.FileName.Split(".").Length - 1];
                 _context.Update(tinTucModel);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                // return RedirectToAction(nameof(Index));
+                return PartialView("_ActionPartial");
             }
             ViewData["NguoiDang"] = new SelectList(_context.NguoiDung, "Id", "Id", tinTucModel.NguoiDang);
-            return View(tinTucModel);
+            return PartialView("_CreatePartial", tinTucModel);
         }
 
         // GET: Admin/TinTuc/Edit/5
@@ -95,7 +98,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                 return NotFound();
             }
             ViewData["NguoiDang"] = new SelectList(_context.NguoiDung, "Id", "Id", tinTucModel.NguoiDang);
-            return View(tinTucModel);
+            return PartialView("_EditPartial", tinTucModel);
         }
 
         // POST: Admin/TinTuc/Edit/5
@@ -148,10 +151,11 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
-            }
-            ViewData["NguoiDang"] = new SelectList(_context.NguoiDung, "Id", "Id", tinTucModel.NguoiDang);
-            return View(tinTucModel);
+                // return RedirectToAction(nameof(Index));
+                return PartialView("_ActionPartial");
+            }   
+            //  return View(tinTucModel);
+            return PartialView("_EditPartial", tinTucModel);
         }
 
         // GET: Admin/TinTuc/Delete/5
@@ -170,7 +174,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            return View(tinTucModel);
+            return PartialView("_DeletePartial", tinTucModel);
         }
 
         // POST: Admin/TinTuc/Delete/5
@@ -181,7 +185,8 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
             var tinTucModel = await _context.TinTuc.FindAsync(id);
             _context.TinTuc.Remove(tinTucModel);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            // return RedirectToAction(nameof(Index));
+            return PartialView("_ActionPartial");
         }
 
         private bool TinTucModelExists(int id)
