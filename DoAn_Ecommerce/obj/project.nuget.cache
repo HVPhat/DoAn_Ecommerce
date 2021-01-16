@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vVjUeJS3+Yk4E3tHDYxMZRWjyGo/z/RUV+0eEcEg9e3pPOg4NXpbTof37CShZqoicR816eAMwZcjogJf4q55hw==",
+  "dgSpecHash": "uVOSmoWrlWFuVmc5dnC/CQudrUKOhqxlUDBkiRj/SgSVd0WTSZcAMuMPXDbGPVvPoMsQyRF2wjWeqChqdWSSwA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tan Phat\\Desktop\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
   "expectedPackageFiles": [
@@ -172,9 +172,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Tan Phat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Tan Phat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
