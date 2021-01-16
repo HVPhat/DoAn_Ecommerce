@@ -893,13 +893,10 @@ E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\
 E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
-E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
 E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Checkout.cshtml.g.cs
 E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Shop.cshtml.g.cs
-E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShopSingle.cshtml.g.cs
 E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thankyou.cshtml.g.cs
 E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
@@ -2263,3 +2260,37 @@ C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\_CreatePartial.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\_DeletePartial.cshtml.g.cs
 C:\Users\Tan Phat\Desktop\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\_EditPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\_ActionSuccessPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\_CreateModalPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\_DeleteModalPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\HoaDon\_EditModalPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Create.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Delete.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Details.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Edit.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\Index.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\_ActionSuccessPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\_CreateModalPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\_DeleteModalPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LoaiSanPham\_EditModalPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_ActionSuccessPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_CreateModalPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_DeleteModalPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NguoiDung\_EditModalPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\DeleteSanPham.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\Thongbao.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\_CreateSanPham.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPham\_EditSanPham.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Create.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Delete.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Details.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Edit.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\Index.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\_ActionPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\_CreatePartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\_DeletePartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinTuc\_EditPartial.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\Shop.cshtml.g.cs
+E:\DoAnCuoiKi\DoAn_Ecommerce\DoAn_Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Product\ShopSingle.cshtml.g.cs

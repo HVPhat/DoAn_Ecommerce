@@ -49,8 +49,8 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
         // GET: Admin/HoaDon/Create
         public IActionResult Create()
         {
-            ViewData["KhachHang"] = new SelectList(_context.NguoiDung, "Id", "Id");
-            return View();
+            HoaDonModel user = new HoaDonModel();
+            return PartialView("_CreateModalPartial", user);
         }
 
         // POST: Admin/HoaDon/Create
@@ -64,10 +64,9 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
             {
                 _context.Add(hoaDonModel);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return PartialView("_ActionSuccessPartial");
             }
-            ViewData["KhachHang"] = new SelectList(_context.NguoiDung, "Id", "Id", hoaDonModel.KhachHang);
-            return View(hoaDonModel);
+            return PartialView("_CreateModalPartial", hoaDonModel);
         }
 
         // GET: Admin/HoaDon/Edit/5
@@ -83,8 +82,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            ViewData["KhachHang"] = new SelectList(_context.NguoiDung, "Id", "Id", hoaDonModel.KhachHang);
-            return View(hoaDonModel);
+            return PartialView("_EditModalPartial", hoaDonModel);
         }
 
         // POST: Admin/HoaDon/Edit/5
@@ -117,10 +115,9 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return PartialView("_ActionSuccessPartial");
             }
-            ViewData["KhachHang"] = new SelectList(_context.NguoiDung, "Id", "Id", hoaDonModel.KhachHang);
-            return View(hoaDonModel);
+            return PartialView("_EditModalPartial", hoaDonModel);
         }
 
         // GET: Admin/HoaDon/Delete/5
@@ -139,7 +136,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            return View(hoaDonModel);
+            return PartialView("_DeleteModalPartial", hoaDonModel);
         }
 
         // POST: Admin/HoaDon/Delete/5
@@ -150,7 +147,7 @@ namespace DoAn_Ecommerce.Areas.Admin.Controllers
             var hoaDonModel = await _context.HoaDon.FindAsync(id);
             _context.HoaDon.Remove(hoaDonModel);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return PartialView("_ActionSuccessPartial", hoaDonModel);
         }
 
         private bool HoaDonModelExists(int id)

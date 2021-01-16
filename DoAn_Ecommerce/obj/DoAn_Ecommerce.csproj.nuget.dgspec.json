@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tan Phat\\Desktop\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj": {}
+    "E:\\DoAnCuoiKi\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tan Phat\\Desktop\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj": {
+    "E:\\DoAnCuoiKi\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tan Phat\\Desktop\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+        "projectUniqueName": "E:\\DoAnCuoiKi\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
         "projectName": "DoAn_Ecommerce",
-        "projectPath": "C:\\Users\\Tan Phat\\Desktop\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
-        "packagesPath": "C:\\Users\\Tan Phat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tan Phat\\Desktop\\DoAn_Ecommerce\\DoAn_Ecommerce\\obj\\",
+        "projectPath": "E:\\DoAnCuoiKi\\DoAn_Ecommerce\\DoAn_Ecommerce\\DoAn_Ecommerce.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\DoAnCuoiKi\\DoAn_Ecommerce\\DoAn_Ecommerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tan Phat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -29,7 +30,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,7 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -84,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
